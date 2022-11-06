@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Odanivi
-- 👀 I’m interested in learning programming and QA
+- 👀 I’m interested in learning QA
 - 🌱 I’m currently learning basics
-- 💞️ I’m looking to collaborate on nothing 🙈
+- 💞️ I’m looking to collaborate on something 🙈
 - 📫 How to reach me: oblovdan@gmail.com
 
 <!---
